@@ -1,5 +1,5 @@
 <?php
-date_default_timezone_set ( 'America/São_Paulo' );
+date_default_timezone_set( 'America/São_Paulo');
 
 $dataAgora = date(DATE_RFC822);
 $nomeUsuario = "Bryan Verneck";
